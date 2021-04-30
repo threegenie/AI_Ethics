@@ -8,4 +8,4 @@
 
 |주제|원문 제목|번역 제목|폴더 링크|
 |:------|:------|:------|:------|
-|AI윤리에 관한 협회|The ethics of AI - issues and initiatives|AI윤리-이슈와 협회|[링크](https://github.com/threegenie/AI_Ethics/tree/main/AI_Initiatives)|
+|AI윤리에 관한 협회들|The ethics of AI - issues and initiatives|AI윤리-이슈와 협회|[링크](https://github.com/threegenie/AI_Ethics/tree/main/AI_Initiatives)|
