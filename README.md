@@ -4,6 +4,8 @@
 
 무단 배포, 이용X / 번역 출처 : 나... 
 
-|:주제:|:원문 제목:|:번역 제목:|:링크:|
-|------|------|------|------|
-|테스트1|테스트2|테스트3|테스트4|
+***
+
+|주제|원문 제목|번역 제목|폴더 링크|
+|:------|:------|:------|:------|
+|AI윤리에 관한 협회|The ethics of AI - issues and initiatives|AI윤리-이슈와 협회|[링크](https://github.com/threegenie/AI_Ethics/tree/main/AI_Initiatives)|
