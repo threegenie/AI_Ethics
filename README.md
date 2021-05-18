@@ -19,3 +19,4 @@
 |AI윤리 관련 협회|The ethics of AI - issues and initiatives|AI윤리-이슈와 협회|[링크](https://github.com/threegenie/AI_Ethics/tree/main/AI_Initiatives)|
 |AI거버넌스|WEP-Governance,Empowering AI Leadership|거버넌스, AI 리더십 강화|[링크](https://github.com/threegenie/AI_Ethics/tree/main/WEP)|
 |AI거버넌스|A Layered Model for AI Governance 2017|AI 거버넌스 계층화 모델(2017)|[링크](https://github.com/threegenie/AI_Ethics/tree/main/LayeredModel)|
+|AI거버넌스|Artificial Intelligence regulation - a meta-framework for formulation and governance|인공지능 규제 - 공식화와 거버넌스를 위한 메타프레임워크|[링크](https://github.com/threegenie/AI_Ethics/tree/main/AI_Regulations)|
